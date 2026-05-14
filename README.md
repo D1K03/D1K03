@@ -27,8 +27,11 @@ Full-stack markdown app with secure JWT auth, RESTful CRUD API, Zod validation a
 ### 🛠️ Tech Stack
 
 **Languages:** TypeScript · Java · Python · SQL
+
 **Frontend:** React · Next.js
+
 **Backend:** Node.js · Express · FastAPI · Spring Boot
+
 **Data & Infra:** PostgreSQL · Drizzle ORM · Redis · AWS S3 · Docker
 
 ---
