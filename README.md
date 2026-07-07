@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel 👋
 
-Final-year Computer Science student at the University of Kent, graduating July 2026. 3x Hackathon winner. Building things in TypeScript, Java and Python — looking for Junior/Graduate Software Engineer roles.
+Junior Python Developer @ CDP, 4x Hackathon winner. Building things in Python, TypeScript and Java (ocassionally.)
 
 🌐 [danielolusakin.com](https://www.danielolusakin.com) · 💼 [LinkedIn](https://www.linkedin.com/in/daniel-olusakin/)
 
@@ -30,18 +30,10 @@ Full-stack markdown app with secure JWT auth, RESTful CRUD API, Zod validation a
 
 ### 🛠️ Tech Stack
 
-**Languages:** TypeScript · Java · Python · SQL
+**Languages:** Python · TypeScript · Java
 
 **Frontend:** React · Next.js
 
-**Backend:** Node.js · Express · FastAPI · Spring Boot
+**Backend:** FastAPI · Node.js · Express · Spring Boot
 
-**Data & Infra:** PostgreSQL · Drizzle ORM · Redis · AWS S3 · Docker
-
----
-
-### 📫 Get in touch
-
-Open to graduate and junior SWE opportunities from July 2026.
-
-[LinkedIn](https://www.linkedin.com/in/daniel-olusakin/) · [Portfolio](https://www.danielolusakin.com)
+**Data & Infra:** SQL · Prisma · Drizzle ORM · Redis · AWS S3 · Docker
