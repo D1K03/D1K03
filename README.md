@@ -4,7 +4,7 @@ Junior Python Developer @ CDP, 4x Hackathon winner. Building things in Python, T
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **[PromptGolf](https://github.com/AKforCodes/PromptGolf)** — 🏆 KentHackIt Winner
 
@@ -26,7 +26,7 @@ Full-stack markdown app with secure JWT auth, RESTful CRUD API, Zod validation a
 
 ---
 
-### 🛠️ Tech Stack
+### Stack
 
 **Languages:** Python · TypeScript · Java
 
