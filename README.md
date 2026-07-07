@@ -6,11 +6,11 @@ Junior Python Developer @ CDP, 4x Hackathon winner. Building things in Python, T
 
 ### Featured Projects
 
-**[PromptGolf](https://github.com/AKforCodes/PromptGolf)** — 🏆 KentHackIt Winner
+**[PromptGolf](https://github.com/AKforCodes/PromptGolf)** - KentHackIt Winner
 
 Multiplayer party game where players race to recreate a target image using AI-generated prompts. Server-authoritative timing, Redis-only state, real-time presence via Pusher channels.
 
-**[orbitSec](https://github.com/D1K03/security-detection-game)** — 🏆 ICHack Winner
+**[orbitSec](https://github.com/D1K03/security-detection-game)** - ICHack Winner
 
 Led a team of 4 to build a gamified security developer tool. FastAPI + React, with a custom Python wrapper bridging Windows and WSL to run static analysis on AI-generated code via Hacktron CLI.
 
