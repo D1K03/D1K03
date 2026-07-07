@@ -14,7 +14,7 @@ Multiplayer party game where players race to recreate a target image using AI-ge
 
 Led a team of 4 to build a gamified security developer tool. FastAPI + React, with a custom Python wrapper bridging Windows and WSL to run static analysis on AI-generated code via Hacktron CLI.
 
-**Harmony — AI Email Assistant**
+**Harmony - AI Email Assistant**
 
 Full-stack AI email assistant that auto-classifies mail and generates contextual draft replies via Gmail Pub/Sub and Outlook Graph hooks. Built with a parallelised draft-context pipeline aggregating user details and learned writing style.
 *Next.js, TypeScript, React, PostgreSQL, Drizzle ORM, Stripe*
