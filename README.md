@@ -1,5 +1,3 @@
-### Hi, I'm Daniel 👋
-
 Junior Python Developer @ CDP, 4x Hackathon winner. Building things in Python, TypeScript and Java (ocassionally.)
 
 🌐 [danielolusakin.com](https://www.danielolusakin.com) · 💼 [LinkedIn](https://www.linkedin.com/in/daniel-olusakin/)
